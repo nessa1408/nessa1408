@@ -20,6 +20,6 @@
   <a href = "mailto:vanessadossantos1408@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vanessa-santana-a7060a186" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/nessa1408/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/nessa1408/nessa1408/blob/output/github-contribution-grid-snake.svg)
  
 </div>
