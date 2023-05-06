@@ -1,6 +1,6 @@
 ## Olá! eu sou Nessa1408
 
-- 🌱 Estudando Java, HTML, CSS
+- 🌱 Estudando PHP, HTML, CSS e vue js
 
 <div align="center">
   <a href="https://github.com/nessa1408">
